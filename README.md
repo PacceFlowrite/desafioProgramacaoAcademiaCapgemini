@@ -1,4 +1,4 @@
-# deSafioProgramacaoAcademiaCapgemini
+# desafioProgramacaoAcademiaCapgemini
 DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
 Exercícios desenvolvidos em Java.
